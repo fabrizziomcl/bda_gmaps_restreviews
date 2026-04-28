@@ -1,0 +1,6 @@
+[submodule "mapScraper"]
+	path = mapScraper
+	url = https://github.com/fabrizziomcl/mapScraper.git
+[submodule "reviewsScraper"]
+	path = reviewsScraper
+	url = https://github.com/fabrizziomcl/reviewsScraper.git
